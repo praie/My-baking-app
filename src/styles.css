@@ -36,7 +36,7 @@ p {
 .container {
   display: block;
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 500px;
   background: white;
   border-radius: 10px;
   padding: 10px 15px;
